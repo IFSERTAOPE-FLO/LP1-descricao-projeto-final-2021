@@ -26,18 +26,18 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1H1SUqUlgh1J7EXWGFy24r3FUxWXgUEFaDpjOlSxbhTg/edit?usp=sharing).
 
-**Iteração 1**
+**Etapa 1**
 
 - Definição dos times: enviar por email com o título "[APS2021] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
 - [Ata da primeira reunião com cliente](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
 - Criação do [documento de definição do projeto](https://docs.google.com/document/d/1tSGvz-Sw9JqjILZVyViVclcV1_syvg1uU1xkoq7T73M/edit?usp=sharing);
 - Projeto criado no github com página de [README](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/readme.md) contendo informações do time e do projeto;
-- Criação de diagramas de *Use Cases* com especificação dos completa dos cenários; 
-- Criação de [testes de aceitação](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) para as *User Stories*;
+- Criação de [diagramas de *Use Cases*](https://docs.google.com/document/d/1zOgcPUjllpijLNhKVoFPyQXtG7wHfNclvgUWLzfNN6E/edit?usp=sharing) com especificação dos completa dos cenários; 
 - Criação de [histórias de usuários](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) (HU);
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 1**.
+- Criação de [testes de aceitação](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) para as Histórias de usuários;
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 1**.
 
-**Iteração 2**
+**Etapa 2**
 
 - Criação do planejamento da iteração;
 - Diagrama de Classes (Análise);
@@ -47,38 +47,39 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 - Ambiente de versionamento atuante (com *commits* frequentes);
 - *Issue tracker* atualizado;
 - Pelo menos uma entrega para o cliente: *deploy* de algumas HU's;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 2**.
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 2**.
 
-**Iteração 3**
+**Etapa 3**
 
 - Continuação do desenvolvimento;
 - [Histórias definidas](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com *commits* frequentes);
 - *Issue tracker* atualizado;
+- Diagramas de *Use Cases* com especificação dos completa dos cenários (Projeto);
 - Diagrama de Classes (Projeto);
 - Diagrama de Sequência (Projeto);
+- Modelo entidade e relacionamento;
 - Integração contínua;
 - Entregas frequentes;
 - Nova entrega para o cliente: deploy de mais algumas HU's;
 - Artefatos para garantir continuidade do projeto;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 3**.
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 3**.
 
-**Iteração 4**
+**Etapa 4**
 
 - Finalização do desenvolvimento;
 - Histórias definidas, claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com commits frequentes);
 - *Issue tracker* atualizado;
-- Diagrama de entidade e relacionamento;
 - Diagramas de Estado de Objeto;
 - Integração contínua;
 - Entregas frequentes;
 - Última entrega para o cliente: deploy de mais algumas HU's;
-- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto (GitHub);
+- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto ([Vide "Organizando o projeto para iniciantes"](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/Projeto.md#o-que-documentar-neste-projeto));
 - Documento com todos os artefatos gerados;
 - Screencast curto (até 3 minutos) de utilização do produto (contendo legenda ou voz);
 - Apresentação (Slides) em formato PDF;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 4**.
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 4**.
 
 ## Sugestões para reuniões com clientes
 
@@ -121,16 +122,12 @@ Crie uma página ou portal específico para iniciantes (pode ser um arquivo .md 
 - Torne mais fácil para os recém-chegados fazer o build do sistema localmente. Assim, crie um guia só para isso.
 - Para ajudar os recém-chegados a entender o código, os projetos devem documentar a estrutura do código. É importante documentar claramente a estrutura organizacional do código e como os componentes, módulos, classes e pacotes se relacionam entre si. Use diagramas que mostram como o projeto é organizado.
 
-Alguns exemplos de projetos de software livre e sua documentação: <https://github.com/paulormm/analizo> e <https://github.com/fga-gpp-mds/Falko-2017.2-FrontEnd>.
-
-Quer ler mais sobre documentação de projetos de software? Dê uma olhada em: <http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm>
-
 ## Sugestão para apresentação final
 
 Você vai apresentar um resumo, de até **10 minutos**, do problema do seu cliente (ou seu) e como sua aplicação pretende resolvê-lo. Sugestão de organização da apresentação final do projeto:
 
 1. Visão geral do Produto
-  - Elevator pitch do produto (o que ele resolve, para que público, qual o diferencial etc)
+  - [*Elevator pitch*](https://blog.contaazul.com/o-que-e-elevator-pitch-e-como-criar-sua-melhor-apresentacao) do produto (o que ele resolve, para que público, qual o diferencial etc)
   - Visão geral da solução e como usar (alto nível)
   - Diagramas criados
 2. Processo de trabalho
