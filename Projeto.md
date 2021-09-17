@@ -30,57 +30,55 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 
 - Definição dos times: enviar por email com o título "[APS2021] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
 - [Ata da primeira reunião com cliente](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
-  - O documento deve possuir, no mínimo, as seguintes informações: Participantes, Descrição do sistema, Tópicos discutidos, funcionalidades e Ações a serem tomadas
+- Criação do [documento de definição do projeto](https://docs.google.com/document/d/1tSGvz-Sw9JqjILZVyViVclcV1_syvg1uU1xkoq7T73M/edit?usp=sharing);
 - Projeto criado no github com página de [README](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/readme.md) contendo informações do time e do projeto;
-- Criação de diagramas de *Use Cases* e descrições;
-- Criação de [histórias de usuários iniciais](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md);
-- Criação de testes de aceitação para as *User Stories* iniciais;
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 1**.
+- Criação de diagramas de *Use Cases* com especificação dos completa dos cenários; 
+- Criação de [testes de aceitação](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) para as *User Stories*;
+- Criação de [histórias de usuários](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) (HU);
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 1**.
 
 **Iteração 2**
 
-- Criação do planejamento no formato **GQM**;
-- Diagramas de *Use Cases* 
+- Criação do planejamento da iteração;
 - Diagrama de Classes (Análise);
 - Diagrama de Sequência (Análise);
-- Criação de mockups Lo-Fi;
-- Histórias definidas, claras, concisas, com entrega de valor bem definida;
-- Ambiente de versionamento atuante (com commits frequentes);
-- Issue tracker atualizado;
-- Pelo menos uma entrega para o cliente: deploy de algumas HU's;
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 2**.
+- [Histórias definidas](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
+- Criação de **Storyboards**;
+- Ambiente de versionamento atuante (com *commits* frequentes);
+- *Issue tracker* atualizado;
+- Pelo menos uma entrega para o cliente: *deploy* de algumas HU's;
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 2**.
 
 **Iteração 3**
 
 - Continuação do desenvolvimento;
-- Histórias definidas, claras, concisas, com entrega de valor bem definida;
-- Ambiente de versionamento atuante (com commits frequentes);
-- Issue tracker atualizado;
+- [Histórias definidas](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
+- Ambiente de versionamento atuante (com *commits* frequentes);
+- *Issue tracker* atualizado;
 - Diagrama de Classes (Projeto);
 - Diagrama de Sequência (Projeto);
 - Integração contínua;
 - Entregas frequentes;
 - Nova entrega para o cliente: deploy de mais algumas HU's;
 - Artefatos para garantir continuidade do projeto;
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 3**.
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 3**.
 
-**Iteration 4**
+**Iteração 4**
 
 - Finalização do desenvolvimento;
 - Histórias definidas, claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com commits frequentes);
 - Issue tracker atualizado;
+- Diagrama de entidade e relacionamento;
+- Diagramas de Estado de Objeto;
 - Integração contínua;
 - Entregas frequentes;
 - Última entrega para o cliente: deploy de mais algumas HU's;
-- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;
+- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto (GitHub);
+- Documento com todos os artefatos gerados;
 - Screencast curto (até 3 minutos) de utilização do produto (contendo legenda ou voz);
-- Apresentação em formato PDF;
-- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 4**.
-
-### Individual: Avaliação 360o
-
-Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o [**formulário**]() até o final da **Iteração 4**.
+- Apresentação (Slides) em formato PDF;
+- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Iteração 4**.
 
 ## Sugestões para reuniões com clientes
 
@@ -107,6 +105,7 @@ Documentação dentro do código pode ser relevante em alguns pontos do sistema.
 
 - Histórias desenvolvidas, com link para a versão correspondente no repositório.
 - Lista de bugs conhecidos e dívida técnica como “issues”.
+- Diagramas de UML;
 - Apresentações de showcase/screencast (fazer upload de todas), com link para a versão correspondente no repositório.
 - Fazer um documento com todos os artefatos criados, colete fotos do time e do ambiente. Descreva um pouco sobre como isso ajudou o desenvolvimento e lições aprendidas.
 
@@ -136,11 +135,9 @@ Você vai apresentar um resumo, de até **10 minutos**, do problema do seu clien
   - Diagramas criados
 2. Processo de trabalho
   - Como organizaram a comunicação ao longo do projeto
-  - Lições aprendidas do processo de trabalho (a.k.a. Engenharia de Software)
+  - Lições aprendidas do processo de trabalho
 3. Time
   - Contribuições individuais (1 slide por aluno refletindo o que fez/o que não pôde ou conseguiu fazer)
-  - Avaliação de como foi a formação de time: de fato formaram um time? Lembrar da avaliação 360o, lá temos dimensões importantes e relevantes de como as pessoas operam em um time.
+  - Avaliação de como foi a formação de time: de fato formaram um time?
 
 Apresentação em formato PDF deve estar no repositório do projeto.
-
-Exemplo de pitches de APIs: Pitch (em alemão) de uma API, dá pra ver bem a [apresentação](https://medium.com/@amancio.bouza/api-product-pitch-for-everybody-3b7f1493adca) no vídeo!
