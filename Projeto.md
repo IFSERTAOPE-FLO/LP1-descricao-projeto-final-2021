@@ -1,16 +1,9 @@
 # Projeto
 
-Os alunos deverão desenvolver um projeto em equipes de no máximo **cinco componentes**. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus do IFBA, organizações sem fins lucrativos, para construir uma solução voltada para melhorar a qualidade de vida dos cidadãos ou explorar um nicho de mercado como, por exemplo, no contexto da Internet das Coisas (ou, do inglês, IoT - Internet of Things). Para entender mais sobre o que é IoT recomendo a leitura do artigo:
-
-- Eleonora Borgia, [**The Internet of Things vision: Key features, applications and open issues**](http://www.sciencedirect.com/science/article/pii/S0140366414003168), Computer Communications, Volume 54, 1 December 2014, Pages 1-31, ISSN 0140-3664, <http://dx.doi.org/10.1016/j.comcom.2014.09.008>.
-
-Maiores informações sobre projetos passados podem ser acessadas neste link: <https://github.com/IF977/>.
-
-Esta [**excelente publicação**](https://miter.mit.edu/the-unexotic-underclass/) resume por quê foi escolhido estimular, preferencialmente, o trabalho com organizações sem fins lucrativos.
+Os alunos deverão desenvolver um projeto em equipes de no máximo **cinco componentes**. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus do IFBA, organizações sem fins lucrativos, para construir uma solução voltada para melhorar a qualidade de vida dos cidadãos ou explorar um nicho de mercado.
 
 > "Mas professor, eu tenho uma proposta que pode ser um bom projeto para o curso!"
 
-1. Verifique a FAQ para ter certeza que atende aos nossos critérios (sobre no que devemos ser firmes, para manter o curso em funcionamento)
 1. Se assim for, entre em contato com o professor responsável se apresentando como um candidato a cliente!
 
 ## Que tipos de projetos são aceitáveis
@@ -18,9 +11,9 @@ Esta [**excelente publicação**](https://miter.mit.edu/the-unexotic-underclass/
 Os requisitos a seguir são os únicos inegociáveis para um projeto ser elegível para a disciplina:
 
 1. Deve endereçar a resolução de um problema "_computacionável_".
-1. A maior parte do projeto/implementação deve ser uma aplicação escrito em uma linguagem de programação de sua preferência. A adoção de programação Web é recomendada, mas não obrigatória (Front-end e Back-end).
-1. Seu código não precisa ter uma licença aberta  -- ele é de sua autoria e você pode licenciá-lo como quiser -- mas para fins pedagógicos ele deve ser acessível ao público no GitHub durante o período da disciplina. Adicionalmente, o professor tem a gestão da conta educacional do GitHub para a Universidade Federal de Pernambuco, que permite mais features e funcionalidades como, manter o projeto público apenas para os integrantes da organização educacional ao qual o projeto está vinculado. (Se você estiver trabalhando com uma organização sem fins lucrativos, o encorajamos a pedir para lhe darem uma licença aberta para que o seu cliente possa continuar a usá-lo depois que você concluir suas atividades na disciplina.)
-1. O escopo deve ser adequada para uma equipe de até 5 pessoas trabalhando por 8-10 semanas. Prof. Breno pode ajudá-lo na definição de um escopo exequível. Os projetos que são demasiado grandes serão subdivididos em serviços que se comunicam separadamente, de modo que cada time não seja maior do que uma equipe com 5 membros.
+1. O projeto/implementação deve ser uma aplicação escrito em uma linguagem de programação de sua preferência. A adoção de tecnologias Web é recomendada (*Front-end* e *Back-end*), mas não obrigatória.
+1. Seu código não precisa ter uma licença aberta  -- ele é de sua autoria e você pode licenciá-lo como quiser -- mas para fins pedagógicos ele deve ser acessível ao público no GitHub durante o período da disciplina. Adicionalmente, o professor tem a gestão da conta educacional do GitHub para o IFBA, que permite mais *features* e funcionalidades como, manter o projeto público apenas para os integrantes da organização educacional ao qual o projeto está vinculado. (Se você estiver trabalhando com uma organização sem fins lucrativos, o encorajamos a pedir para lhe darem uma licença aberta para que o seu cliente possa continuar a usá-lo depois que você concluir suas atividades na disciplina.)
+1. O escopo deve ser adequada para uma equipe de até 5 pessoas trabalhando por 8-10 semanas. O Professor pode ajudá-lo na definição de um escopo exequível. Os projetos que são demasiado grandes serão subdivididos em serviços que se comunicam separadamente, de modo que cada time não seja maior do que uma equipe com 5 membros.
 1. Todos os membros da equipe do projeto devem ser estudantes matriculados na disciplina.
 
 Adicionalmente, temos requisitos que são considerados os ideais para projetos, mas não obrigatórios:
@@ -31,18 +24,16 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 ## Quais são os artefatos (produtos de trabalho) entregáveis (deliverables) do projeto
 
-Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1N60wdHdyU0OwIzKzihPPYtaWM1nHslTQHtuXOjDwIrE/edit?usp=sharing).
-
-Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus.md).
+Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1H1SUqUlgh1J7EXWGFy24r3FUxWXgUEFaDpjOlSxbhTg/edit?usp=sharing).
 
 **Iteração 1**
 
 - Definição dos times: enviar por email com o título "[APS2021] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
-- [Ata da primeira reunião com cliente](https://github.com/IF977/monitoria-if977-SI/blob/master/Ata_reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
+- [Ata da primeira reunião com cliente](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
   - O documento deve possuir, no mínimo, as seguintes informações: Participantes, Descrição do sistema, Tópicos discutidos, funcionalidades e Ações a serem tomadas
-- Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto;
+- Projeto criado no github com página de [README](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/readme.md) contendo informações do time e do projeto;
 - Criação de diagramas de *Use Cases* e descrições;
-- Criação de [histórias de usuários iniciais](https://github.com/IF977/monitoria-if977-SI/blob/master/historias_usuarios.md);
+- Criação de [histórias de usuários iniciais](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md);
 - Criação de testes de aceitação para as *User Stories* iniciais;
 - [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 1**.
 
