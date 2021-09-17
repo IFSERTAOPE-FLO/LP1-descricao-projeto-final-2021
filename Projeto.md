@@ -68,7 +68,7 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 - Finalização do desenvolvimento;
 - Histórias definidas, claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com commits frequentes);
-- Issue tracker atualizado;
+- *Issue tracker* atualizado;
 - Diagrama de entidade e relacionamento;
 - Diagramas de Estado de Objeto;
 - Integração contínua;
