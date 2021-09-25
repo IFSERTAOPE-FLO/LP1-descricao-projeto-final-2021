@@ -2,29 +2,21 @@
 
 ## História dos Usuários
 
-**US001**
+| Código    | User Story                                                   |
+| --------- | ------------------------------------------------------------ |
+| **US001** | Como um usuário típico, eu gostaria de realizar empréstimos de livros |
+| **US002** | Como um usuário típico, eu gostaria de devolver um livro que tomei emprestado |
+| **US003** | Como um usuário típico, eu gostaria de renovar empréstimos de livros |
+| **US004** | Como um usuário típico, eu gostaria de pesquisar por livros  |
+| **US005** | Como um usuário típico, eu gostaria de reservar livros que estão emprestados |
+| **US006** | Como um usuário típico, eu gostaria de receber e-mails com novas aquisições |
+| **US007** | Como um professor, eu gostaria de realizar empréstimos de maior duração |
+| **US008** | Como um professor, eu gostaria de sugerir a compra de livros |
+| **US009** | Como um professor, eu gostaria de doar livros para a biblioteca |
+| **US010** | Como um professor, eu gostaria de devolver livros em outras bibliotecas |
+| ...       | ...                                                          |
 
-```
-Como...
-Eu gostaria de...
-Para...
-```
 
-**US002**
-
-```
-Como...
-Eu gostaria de...
-Para...
-```
-
-**US003**
-
-```
-Como...
-Eu gostaria de...
-Para...
-```
 
 ## Testes de Aceitação
 
