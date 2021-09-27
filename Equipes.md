@@ -42,6 +42,7 @@ Link do projeto: [Link]()
 - Karolayne Silva Nascimento (karolnascicunha@gmail.com)
 - Larissa Silva Nunes (la.nunes20@gmail.com)
 - Julia Pereira de Andrade (juliaandrade645@gmail.com)
+- Kalany de Sousa Santana ([soukalany@gmail.com](mailto:soukalany@gmail.com))
 
 Link do projeto: [Link]()
 
