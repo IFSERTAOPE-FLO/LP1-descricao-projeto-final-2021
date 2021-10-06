@@ -24,9 +24,11 @@
 * Alguma coisa
 
 ### Ações a serem tomadas
-| Ação         | Responsável  |
-| ------------ | ------------ |
-| Alguma coisa | Alguma coisa |
+| Ação                                      | Responsável  |
+| ----------------------------------------- | ------------ |
+| Criar cadastro para clientes              | @FulanoDeTal |
+| Permitir que os clientes realizem pedidos | @Beltrano    |
 
-###Informações Adicionais
+### Informações Adicionais
+
 * Alguma coisa

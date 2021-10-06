@@ -15,7 +15,6 @@ Link do projeto: [Link]()
 ## (2) Nome do Projeto: *Indefinido*
 
 - Anailsa Santos Santos
-- Gabriel Dias de Andrade
 - Ítalo Carvalho Silva
 - Karlla Tauany da Silva Rodrigues
 - Lívia Beatriz dos Santos Bahia
@@ -23,18 +22,24 @@ Link do projeto: [Link]()
 
 Link do projeto: [Link]()
 
-> Obs.: São muitos temas. Precisa-se focar em um e fazê-lo bem feito! Falta os emails e a definição do líder. 
+> Obs.: São muitos temas. Precisa-se focar em um e fazê-lo bem feito! Falta os emails e a definição do líder.
 >
-> Obs.2: Grupo com 6 componentes. *Máximo de 5 membros.*
 
-## (3) Nome do Projeto: Sistema de Gerenciamento de uma Empresa
+## (3) Nome do Projeto: Sistema de Gerenciamento de uma Livraria
 
-- Maria Eduarda Barboza Santos
-- Maria Luíza Costa Andrade
+- Maria Eduarda Barboza Santos (mariaeduardabarbosasantos1@gmail.com)
+- Maria Luíza Costa Andrade (marialuizacandr@gmail.com)
+- Sayonara Cavalcante dos Santos Almeida (sayonahra@gmail.com) 
+- Ludmyla Alves Noles (ludnoles@gmail.com)
+- Silvio Fernando Carneiro Neto (silvio.deto@gmail.com)
+
+> **Empresa**: Wizard, curso de inglês e espanhol, localizado em Euclides da Cunha.
+
+> **Objetivos gerais do projeto**: Fornecer um sistema de monitoramento de empréstimo de livro ofertados pela empresa e gerenciar o livro utilizado, o aluno que solicitou o empréstimo, as informações pessoais deste e os dados do empréstimo.
 
 Link do projeto: [Link]()
 
-> Obs.: Projeto precisa ser melhor detalhado; Falta emails e a definição do líder.
+> Obs.: Falta definição do líder.
 
 ## (4) Nome do Projeto: Cantina
 
@@ -56,4 +61,3 @@ Link do projeto: [Link]()
 Link do projeto: [Link]()
 
 > Obs.: Falta o tema do projeto.
-
