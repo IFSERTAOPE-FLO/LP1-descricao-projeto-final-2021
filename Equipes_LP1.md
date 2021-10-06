@@ -1,4 +1,4 @@
-# Equipes
+# Equipes - Linguagem de Programação 1
 
 ## (1) Nome do Projeto: Controle de vendas
 
@@ -47,3 +47,13 @@ Link do projeto: [Link]()
 Link do projeto: [Link]()
 
 > Obs.: Falta a definição do líder.
+
+## (5) Nome do Projeto: *Indefinido*
+
+- João Bispo de Santana Neto ([netosantana14@gmail.com](mailto:netosantana14@gmail.com)) *
+- Carlos Henrique Costa Cavalcante ([chenrique.estudos@gmail.com](mailto:chenrique.estudos@gmail.com))
+
+Link do projeto: [Link]()
+
+> Obs.: Falta o tema do projeto.
+
