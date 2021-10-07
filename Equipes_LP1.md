@@ -1,6 +1,6 @@
 # Equipes - Linguagem de Programação 1
 
-## (1) Nome do Projeto: Controle de vendas
+## (1) Nome do Projeto: Controle de vendas de uma Mercearia
 
 - Glendah Silva Costa (glendacosta432@gmail.com);
 - Lauanda Jones Almeida da Silva (lauandajones32123@gmail.com);
@@ -8,9 +8,11 @@
 - Mariane Barbosa Torres (torresmariane76@gmail.com);
 - Vitória Dantas de Oliveira (vitoriadantasoliveira.vd@gmail.com) \*
 
-Link do projeto: [Link]()
+> **Empresa**: "Mercearia Vitória", localizado em Euclides da Cunha, o proprietário do comércio se chama Francisco Barbosa de Oliveira.
+>
+> **Objetivos gerais do projeto**: Criar um programa que vai auxiliar na organização do controle de vendas feitas a prazo em um pequeno comércio.
 
-> Obs.: Projeto precisa ser melhor detalhado
+Link do projeto: [Link]()
 
 ## (2) Nome do Projeto: *Indefinido*
 
