@@ -29,15 +29,17 @@ Link do projeto: [Link]()
 
 ## (3) Nome do Projeto: Sistema de Gerenciamento de uma Livraria
 
-- Maria Eduarda Barboza Santos (mariaeduardabarbosasantos1@gmail.com)
+- Maria Eduarda Barboza Santos (mariaeduardabarbosasantos1@gmail.com) *
 - Maria Luíza Costa Andrade (marialuizacandr@gmail.com)
 - Sayonara Cavalcante dos Santos Almeida (sayonahra@gmail.com) 
 - Ludmyla Alves Noles (ludnoles@gmail.com)
 - Silvio Fernando Carneiro Neto (silvio.deto@gmail.com)
 
-> **Empresa**: Wizard, curso de inglês e espanhol, localizado em Euclides da Cunha.
-
-> **Objetivos gerais do projeto**: Fornecer um sistema de monitoramento de empréstimo de livro ofertados pela empresa e gerenciar o livro utilizado, o aluno que solicitou o empréstimo, as informações pessoais deste e os dados do empréstimo.
+> **Empresa:** escola de idiomas Wizard, incluindo cursos de inglês e espanhol, localizada em Euclides da Cunha. 
+>
+> **Cliente**: Angela Souza de Miranda.
+>
+> **Objetivos gerais do projeto:** Fornecer um sistema de monitoramento de empréstimo de livros ofertados pela empresa e gerenciar o livro utilizado, o aluno que solicitou o empréstimo, as informações pessoais deste e os dados do empréstimo.
 
 Link do projeto: [Link]()
 
