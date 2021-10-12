@@ -14,18 +14,21 @@
 
 Link do projeto: [Link]()
 
-## (2) Nome do Projeto: *Indefinido*
+## (2) Nome do Projeto: Cantina do Mineiro
 
-- Anailsa Santos Santos
-- Ítalo Carvalho Silva
-- Karlla Tauany da Silva Rodrigues
-- Lívia Beatriz dos Santos Bahia
-- Luiziane França da Cruz
+- Ítalo Carvalho Silva (itcrv17@gmail.com) *
+- Luiziane França Da Cruz: ([luizafrancalf0@gmail.com](mailto:luizafrancalf0@gmail.com))
+- Anailsa Santos dos Santos: ([santosanny268@gmail.com](mailto:santosanny268@gmail.com))
+- Karlla Tauany da Silva Rodrigues ([tauanyrodrigues15@outlook.com](mailto:tauanyrodrigues15@outlook.com))
+- Livia Beatriz Santos Bahia:([livia2016beatriz@gmail.com](mailto:livia2016beatriz@gmail.com))
+
+> **Empresa**: Cantina do mineiro
+>
+> **Descrição:** O sistema visa otimizar o tempo e possibilitar a reserva do almoço na lanchonete do campus, até então, uma atividade feita manualmente gerando um gasto de tempo para ambas as partes, os principais clientes: Alunos e os comerciante.
+>
+> Em um primeiro planejamento, as informações para tal serão coletadas com o responsável por o comércio do almoço. O sistema contará com a apresentação do prato do dia, como costumeiramente e o registro do pedido do aluno, através de um cadastro como nome, sobrenome, turma atuante e número de matrícula.
 
 Link do projeto: [Link]()
-
-> Obs.: São muitos temas. Precisa-se focar em um e fazê-lo bem feito! Falta os emails e a definição do líder.
->
 
 ## (3) Nome do Projeto: Sistema de Gerenciamento de uma Livraria
 
@@ -42,8 +45,6 @@ Link do projeto: [Link]()
 > **Objetivos gerais do projeto:** Fornecer um sistema de monitoramento de empréstimo de livros ofertados pela empresa e gerenciar o livro utilizado, o aluno que solicitou o empréstimo, as informações pessoais deste e os dados do empréstimo.
 
 Link do projeto: [Link]()
-
-> Obs.: Falta definição do líder.
 
 ## (4) Nome do Projeto: Cantina
 
