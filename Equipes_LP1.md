@@ -56,13 +56,61 @@ Link do projeto: [Link]()
 
 Link do projeto: [Link]()
 
-> Obs.: Falta a definição do líder.
+> **Obs.: Falta o tema do projeto, descrição e cliente.**
 
-## (5) Nome do Projeto: *Indefinido*
+## (5) Nome do Projeto: Gerenciamento de pedidos de uma pastelaria
 
 - João Bispo de Santana Neto ([netosantana14@gmail.com](mailto:netosantana14@gmail.com)) *
 - Carlos Henrique Costa Cavalcante ([chenrique.estudos@gmail.com](mailto:chenrique.estudos@gmail.com))
 
 Link do projeto: [Link]()
 
-> Obs.: Falta o tema do projeto.
+> **Obs.: Falta descrição e cliente.**
+
+## (6) Nome do Projeto: Administração do inventário da Biblioteca do IFBA - Campus Euclides da Cunha
+
+- Dhomini Andrade dos Santos ([dhominikof@gmail.com](mailto:dhominikof@gmail.com));
+- Joedson da Silva Souza ([joedsonsouza.ifba.br@gmail.com](mailto:joedsonsouza.ifba.br@gmail.com));*(LIDER)
+- Magnum Soares de Amurim Pereira Ferreira ([magnumsapf@gmail.com](mailto:magnumsapf@gmail.com));
+- Mycaelly Jaqueline Matias de Oliveira ([mycaellyjm@gmail.com](mailto:mycaellyjm@gmail.com));
+- Roberto Santos Nascimento ([robertosanttos392@gmail.com](mailto:robertosanttos392@gmail.com));
+
+Link do projeto: [Link]()
+
+> **Empresa:** Biblioteca - Campus Euclides da Cunha;
+>
+> **Cliente:** Esperando a direção definir.
+>
+> **Objetivos gerais do projeto:** Fornecer o controle de entrada e saída de livros; Fornecer o controle do empréstimo de livros oferecidos pela biblioteca, utilizando dados dos alunos, dados dos livros, prazos de entregas, etc.
+
+## (7) Nome do Projeto: Loyola's calça e veste
+
+- Kailan Carvalho Gama
+- Luiz Feliphe Silva Ribeiro
+- Tarcísio de Pinho Silva Filho
+
+Link do projeto: [Link]()
+
+> **Empresa:** Loyola's calça e veste (loja localizada em Monte Santo de Calçados e roupas)
+>
+> **Cliente:** *Indefinido*.
+>
+> **Objetivos gerais do projeto:** O objetivo é criar um sistema onde possa organizar os produtos que são vendidos, com preços, estoque, tamanhos dos calçados disponíveis etc. Será um aplicativo desktop offline apenas para uso pessoal da loja sem nenhuma interação online. Uso apenas para controle de estoque e afins. No futuro pretendemos ver mais coisas que poderão ser adicionadas ao projeto.
+>
+> **Obs: Falta líder, emails e o nome do cliente.**
+
+## (8) Nome do Projeto: Intermediação entre Discentes e Servidores do IFBA - Campus Euclides da Cunha
+
+- Pedro Henrique Bianchini ([pedroifbaec@gmail.com](mailto:pedroifbaec@gmail.com));
+- Rafael dos Santos Reis ([rafaeldsreis77@gmail.com](mailto:rafaeldsreis77@gmail.com)); *(LIDER)
+- Emanuel Pinheiro ([Emanuelpinha2201@hotmail.com](mailto:Emanuelpinha2201@hotmail.com)) ;
+- Carlos Eduardo Souza ([carlos.eduardo.souzans@gmail.com](mailto:carlos.eduardo.souzans@gmail.com));
+- Guilherme Ferreira Carmezim ([gui27.carmezim@gmail.com](mailto:gui27.carmezim@gmail.com));
+
+Link do projeto: [Link]()
+
+> **Empresa:** Instituição - Campus Euclides da Cunha ;
+>
+> **Cliente:** Aguardando resposta da Direção.
+>
+> **Objetivos Gerais do Projeto:** Realizar a intermediação entre alunos e servidores, produzir agendamentos de consultas com psicólogo, pedagogo, nutricionista, entre outros através de um programa minimalista e prático de agendamentos.
