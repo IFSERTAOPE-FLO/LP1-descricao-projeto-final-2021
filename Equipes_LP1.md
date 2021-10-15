@@ -114,3 +114,17 @@ Link do projeto: [Link]()
 > **Cliente:** Aguardando resposta da Direção.
 >
 > **Objetivos Gerais do Projeto:** Realizar a intermediação entre alunos e servidores, produzir agendamentos de consultas com psicólogo, pedagogo, nutricionista, entre outros através de um programa minimalista e prático de agendamentos.
+
+## (9) Nome do Projeto: Gerenciamento de dívidas e pagamentos de serviços
+
+- Lucas Gabriel dos Santos Cardoso ([lucasbahia.lbg@gmail.com](mailto:lucasbahia.lbg@gmail.com)) *
+- Gustavo Mendes Carvalho Almeida ([gustavhin1.5@gmail.com](mailto:gustavhin1.5@gmail.com));
+
+Link do projeto: [Link]()
+
+> **Empresa:** Serralheria Bahia
+>
+> **Cliente:** José Emilio Cardoso.
+>
+> **Objetivos Gerais do Projeto:** Gerenciar os pagamentos realizados pela efetuação de um serviço e agendar futuros pagamentos para serviços já prestados, através de datas e utilizando dados dos clientes(Nome e telefone) da empresa.
+
