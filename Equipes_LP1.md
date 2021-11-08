@@ -12,7 +12,7 @@
 >
 > **Objetivos gerais do projeto**: Criar um programa que vai auxiliar na organização do controle de vendas feitas a prazo em um pequeno comércio.
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/vitoria121/sistemadecontroledevendas)
 
 ## (2) Nome do Projeto: Cantina do Mineiro
 
@@ -28,7 +28,7 @@ Link do projeto: [Link]()
 >
 > Em um primeiro planejamento, as informações para tal serão coletadas com o responsável por o comércio do almoço. O sistema contará com a apresentação do prato do dia, como costumeiramente e o registro do pedido do aluno, através de um cadastro como nome, sobrenome, turma atuante e número de matrícula.
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/ItaloGostoso/Projeto-Linguagem-I.git)
 
 ## (3) Nome do Projeto: Sistema de Gerenciamento de uma Livraria
 
@@ -44,7 +44,7 @@ Link do projeto: [Link]()
 >
 > **Objetivos gerais do projeto:** Fornecer um sistema de monitoramento de empréstimo de livros ofertados pela empresa e gerenciar o livro utilizado, o aluno que solicitou o empréstimo, as informações pessoais deste e os dados do empréstimo.
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/mariaeduardabarboza/SISTEMA-DE-GERENCIAMENTO-DE-UMA-LIVRARIA)
 
 ## (4) Nome do Projeto: Cantina
 
@@ -54,7 +54,7 @@ Link do projeto: [Link]()
 - Julia Pereira de Andrade (juliaandrade645@gmail.com)
 - Kalany de Sousa Santana ([soukalany@gmail.com](mailto:soukalany@gmail.com))
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/Helenapati/Projeto-)
 
 > **Obs.: Falta o tema do projeto, descrição e cliente.**
 
@@ -63,9 +63,15 @@ Link do projeto: [Link]()
 - João Bispo de Santana Neto ([netosantana14@gmail.com](mailto:netosantana14@gmail.com)) *
 - Carlos Henrique Costa Cavalcante ([chenrique.estudos@gmail.com](mailto:chenrique.estudos@gmail.com))
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/N33ttu2/Gerenciamento_de_pedidos_de_uma_pastelaria)
 
-> **Obs.: Falta descrição e cliente.**
+> **Empresa:** Point Gourmet.
+>
+> **Cliente:** Verônica Bispo de Abreu.
+>
+> **Objetivos gerais do projeto:** O objetivo é criar um sistema onde seja possível organizar os pedidos de cada cliente com: Nome ou apelido do cliente, bebida, sabor de pastel e extras acrescentados, se é pra comer no estabelecimento ou se é pra viagem *mais coisas podem ser adicionadas no futuro conforme as necessidades da empresa.
+
+**Obs.: Atrasado. Entregue dia 23/10.**
 
 ## (6) Nome do Projeto: Administração do inventário da Biblioteca do IFBA - Campus Euclides da Cunha
 
@@ -75,7 +81,7 @@ Link do projeto: [Link]()
 - Mycaelly Jaqueline Matias de Oliveira ([mycaellyjm@gmail.com](mailto:mycaellyjm@gmail.com));
 - Roberto Santos Nascimento ([robertosanttos392@gmail.com](mailto:robertosanttos392@gmail.com));
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/JoedsonSouza/PROJETO-BIBLIOTECA-IFBA)
 
 > **Empresa:** Biblioteca - Campus Euclides da Cunha;
 >
@@ -85,19 +91,19 @@ Link do projeto: [Link]()
 
 ## (7) Nome do Projeto: Loyola's calça e veste
 
-- Kailan Carvalho Gama
-- Luiz Feliphe Silva Ribeiro
-- Tarcísio de Pinho Silva Filho
+- Kailan Carvalho Gama ([kaylangama@gmail.com](mailto:kaylangama@gmail.com)) 
+- Luiz Feliphe Silva Ribeiro ([felipherib2018@gmail.com](mailto:felipherib2018@gmail.com))
+- Tarcisio de Pinho Silva Filho ([0hiddenmenace0@gmail.com](mailto:0hiddenmenace0@gmail.com)) *
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/TarcisioFilhox/ProjetoLoyola-s-)
 
 > **Empresa:** Loyola's calça e veste (loja localizada em Monte Santo de Calçados e roupas)
 >
-> **Cliente:** *Indefinido*.
+> **Cliente:** Tarcísio Pinho (Funcionário/gerente)
 >
 > **Objetivos gerais do projeto:** O objetivo é criar um sistema onde possa organizar os produtos que são vendidos, com preços, estoque, tamanhos dos calçados disponíveis etc. Será um aplicativo desktop offline apenas para uso pessoal da loja sem nenhuma interação online. Uso apenas para controle de estoque e afins. No futuro pretendemos ver mais coisas que poderão ser adicionadas ao projeto.
->
-> **Obs: Falta líder, emails e o nome do cliente.**
+
+**Obs: Atrasado. Entregue dia 26/10.**
 
 ## (8) Nome do Projeto: Intermediação entre Discentes e Servidores do IFBA - Campus Euclides da Cunha
 
@@ -107,7 +113,7 @@ Link do projeto: [Link]()
 - Carlos Eduardo Souza ([carlos.eduardo.souzans@gmail.com](mailto:carlos.eduardo.souzans@gmail.com));
 - Guilherme Ferreira Carmezim ([gui27.carmezim@gmail.com](mailto:gui27.carmezim@gmail.com));
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/Carmezimgui/ATA-REUNIAO)
 
 > **Empresa:** Instituição - Campus Euclides da Cunha ;
 >
@@ -120,7 +126,7 @@ Link do projeto: [Link]()
 - Lucas Gabriel dos Santos Cardoso ([lucasbahia.lbg@gmail.com](mailto:lucasbahia.lbg@gmail.com)) *
 - Gustavo Mendes Carvalho Almeida ([gustavhin1.5@gmail.com](mailto:gustavhin1.5@gmail.com));
 
-Link do projeto: [Link]()
+Link do projeto: [Link](https://github.com/lucas-gabrielll/ProjetoLP1)
 
 > **Empresa:** Serralheria Bahia
 >
