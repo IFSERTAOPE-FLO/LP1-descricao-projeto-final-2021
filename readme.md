@@ -22,5 +22,5 @@ Criação de testes de aceitação '@daniocr'
 
 Criação de usos de caso '@juliaEmacedo'
 
-Retrospectiva '@todos'
+Retrospectiva '@geoaraujos'
 
