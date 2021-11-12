@@ -1,34 +1,35 @@
-# Nome do Projeto
+# Brasil sem frio
 
 
 ## Ata de Reunião
 
 | Data       | Local        |
 | ---------- | ------------ |
-| xx/xx/xxxx | Alguma coisa |
+| 10/11/2021 | Euclides da Cunha |
 
 
 ### Participantes
-* eu
-* tu
-* ele
+Lara Beatriz Santos Calazans (líder)
+Danielle Souza do Carmo
+Geovanna Barbosa Araújo
+Lara Beatriz Santos Calazans
+Sarah Emanuelle Barreto dos Santos Souza
+Júlia Emylle Cavalcante Macêdo 
 
 ### Objetivos
-* Alguma coisa
-* Alguma coisa
-* Alguma coisa
+* Desenvolver aplicativo para conectar doadores de roupas de frio com necessitados 
+
 
 ### Tópicos Discutidos
-* Alguma coisa
-* Alguma coisa
-* Alguma coisa
+* Público alvo
+* Divulgação
+* Designar funções
 
 ### Ações a serem tomadas
 | Ação                                      | Responsável  |
 | ----------------------------------------- | ------------ |
-| Criar cadastro para clientes              | @FulanoDeTal |
-| Permitir que os clientes realizem pedidos | @Beltrano    |
+| Escrever página de cadastro para doadores | @larafuracao |
+| Escrever página de cadastros de clientes  | @    |
 
 ### Informações Adicionais
 
-* Alguma coisa
