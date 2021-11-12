@@ -9,5 +9,7 @@ Aplicativo para conectar pessoas necessitadas de roupas de frio com doadores
 
 ### Especificação do papel de cada membro
 Criação do repositório `@larafuracao`
+
 Criação README `@larafuracao`
+
 Criação da ata de reunião `@larafuracao`
