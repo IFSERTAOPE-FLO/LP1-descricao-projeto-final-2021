@@ -11,14 +11,14 @@
 
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Criação da ata da primeira reunião com cliente               | `@larafuracao`, `@pessoa2`, `@pessoa3` |
+| Criação da ata da primeira reunião com cliente               | `@larafuracao`                     |
 | Criação de diagramas de Use Cases                            | `@todos`                           |
 | Criação de histórias de usuários                             | `@todos`                           |
 | Criação de testes de aceitação                               | `@todos`                           |
+| Criação do planejamento                                      | `@todos`                           |
 
 ### O que foi feito até a iteração #1
 
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Criação do repositório | `@larafuracao`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
+| Criação do repositório | `@larafuracao` |
