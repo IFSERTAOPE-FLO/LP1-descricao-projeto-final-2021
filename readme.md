@@ -13,3 +13,14 @@ Criação do repositório `@larafuracao`
 Criação README `@larafuracao`
 
 Criação da ata de reunião `@larafuracao`
+
+Criação do documento de definição de projeto `@sarahbarrettto`
+
+Criação documento de história de usuário '@daniocr'
+
+Criação de testes de aceitação '@daniocr'
+
+Criação de usos de caso '@juliaEmacedo'
+
+Retrospectiva '@todos'
+
