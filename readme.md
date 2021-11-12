@@ -20,7 +20,7 @@ Criação documento de história de usuário '@daniocr'
 
 Criação de testes de aceitação '@daniocr'
 
-Criação de usos de caso '@juliaEmacedo'
+Criação do documento de requisitos '@juliaEmacedo'
 
 Retrospectiva '@geoaraujos'
 
