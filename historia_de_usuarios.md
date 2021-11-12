@@ -14,6 +14,7 @@
 | **US007** | Como um usuário, eu gostaria de sugerir roupas que estou mais precisando. |
 | **US008** | Como um doador, eu gostaria de receber um e-mail com os dados do usuário. |
 | **US009** | Como um usuário, eu gostaria de me cadastrar com facilidade. |
+
 | **US010** | Como um doador, eu gostaria de cadastrar roupas no meu perfil de doador e colocar fotos. |
 
 
