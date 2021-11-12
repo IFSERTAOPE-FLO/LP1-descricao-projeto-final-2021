@@ -1,11 +1,13 @@
-# Nome do Projeto
+# Brasil Sem Frio
 
 
 ### Justificativa
-Alguma coisa aqui
+Em épocas de frio famílias de baixa renda e moradores de rua sofrem com as baixas temperaturas
 
 ### Descrição do produto
-Alguma coisa aqui
+Aplicativo para conectar pessoas necessitadas de roupas de frio com doadores
 
 ### Especificação do papel de cada membro
-Alguma coisa aqui `@prof`
+Criação do repositório `@larafuracao`
+Criação README `@larafuracao`
+Criação da ata de reunião `@larafuracao`
