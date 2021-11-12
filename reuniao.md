@@ -24,12 +24,16 @@ Júlia Emylle Cavalcante Macêdo
 * Público alvo
 * Divulgação
 * Designar funções
+* 
 
 ### Ações a serem tomadas
 | Ação                                      | Responsável  |
 | ----------------------------------------- | ------------ |
 | Escrever página de cadastro para doadores | @larafuracao |
-| Escrever página de cadastros de clientes  | @    |
-
+| Escrever página de cadastros de clientes  | @sarahbarrettto |
+| Criar documento de requisitos             | @juliaEmacedo |
+| Criar documento de história de usuário e 
+| testes de aceitação                       | @daniocr |
+| Retrospectiva                             | @todos |
 ### Informações Adicionais
 
