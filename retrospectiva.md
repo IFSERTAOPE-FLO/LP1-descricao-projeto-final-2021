@@ -1,4 +1,4 @@
-# Nome do Projeto - #1.0
+# Brasil Sem Frio - #1.0
 
 # Retrospectiva
 
@@ -10,24 +10,34 @@
 ### O que estava planejado
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@pessoa1`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
+| Criação da ata da primeira reunião com cliente               | `@larafuracao`                     |
+| Criação do Documento de definição do projeto                 | `@sarahbarrettto`                  |
+| Criação de histórias de usuários                             | `@daniocr`                         |
+| Criação de testes de aceitação                               | `@daniocr`                         |
+| Criação do planejamento                                      | `@larafuracao`                     |
 
 ### O que foi feito
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@pessoa1`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
+| Criação do repositório                                       | `@larafuracao`                     |
+| Criação de Documento de definição do projeto                 | `@sarahbarrettto`                  |
+| Criação de histórias de usuários                             | `@daniocr`                         |
+| Criação de testes de aceitação                               | `@daniocr`                         |
+| Criação do planejamento                                      | `@larafuracao`                     |
+| Arquivo de retrospectiva                                     | `@geoaraujos`                     |
 
 ### O que não foi feito
 
 
-> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
-
 ### Planejado para próxima iteração
+| Atividade                                                    | Atribuição                         |
+| ------------------------------------------------------------ | ---------------------------------- |
+| Criação de Storyboards                                       | `@geoaraujos`                      |
+| Diagrama de Classes                                          | `@sarahbarrettto`                  |
+| Diagrama de Sequência                                        | `@daniocr`                         |
 
 
 ### Lições aprendidas
 
+O grupo aprendeu a mexer no GitHub, melhorou a comunicação e através do líder cada um recebeu sua função para não atrasar os prazos.
 
-> **Nota:** Levante o que foi aprendido nesta iteração, seja de carácter individual e/ou coletivo.
