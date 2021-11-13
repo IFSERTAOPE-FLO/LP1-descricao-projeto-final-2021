@@ -1,0 +1,69 @@
+Brasil Sem Frio
+DOCUMENTO DE REQUISITOS
+
+
+1. Integrantes do grupo
+
+
+* Lara Beatriz Santos Calazans (líder)
+* Danielle Souza do Carmo
+* Geovanna Barbosa Araújo
+* Sarah Emanuelle Barreto dos Santos Souza
+* Júlia Emylle Cavalcante Macêdo 
+
+
+
+
+2. Descrição do sistema
+
+
+O sistema Brasil Sem Frio é uma solução para conectar o doador de roupas de frio com quem está necessitado.
+
+
+3. Fontes de contato
+* Lara (Usuário típico)
+* Sarah(Usuário típico)
+
+
+4. Requisitos do Sistema
+RF01: Cadastrar o usuário 
+RF02: Cadastrar o doador
+RF03: Pedir login e senha na tela de início
+RF04: O sistema deve responder em, no máximo, 3 segundos a todas as requisições de clientes/usuários..
+RF05: O software precisa estar apto para ajustes de temas, como claro e escuro.
+RF06: O software precisa do acesso a localização do celular ou computador
+
+
+4.1. Atores do Sistema
+4.1.1. Usuário
+Necessitante de roupas de frio
+4.1.2. Usuário-Doador
+Doador de roupas de frio
+4.2. Casos de Uso do Sistema
+4.2.1.1 Cadastro de usuário – Descrição
+O usuário deve preencher nome completo, número para contato, RG ou CPF, foto do rosto e permitir acesso a localização através do app.
+4.2.1.2.  Pesquisa por doador mais próximo
+Botão para achar doador
+4.2.1.3.  Receber roupa do doador mais próximo
+O usuário entra em contato com o doador através de mensagens para receber a doação
+4.2.2.1. Cadastro de doador– Descrição
+O usuário deve preencher nome completo, número para contato, RG ou CPF e permitir acesso a localização através do app.
+4.2.2.2.  Cadastro de roupas
+Botão para achar doador
+4.2.2.3.  Receber mensagem do usuário
+O doador recebe mensagem do usuário e tem acesso aos dados de contato
+4.3. Diagrama de Caso de Uso do Sistema  
+4.4 Cenários dos Casos de Uso
+4.4.1. UC01 Cadastro de usuário (RF01)
+Descrição: O próprio usuário realiza o cadastro no sistema através de uma tela de cadastro.
+ Pré-condições:
+·   O CPF ou RG devem ser válidos
+·   E-mail e/ou telefone válidos
+ 
+Atores: Usuário
+ 
+Cenário Principal:
+(Usuário cadastra-se)
+1. O usuário informa o telefone e/ou e-mail, RG ou CPF e a senha
+2. Clica no botão "Cadastrar usuário”
+3. Recebe mensagem “Usuário cadastrado com sucesso”
