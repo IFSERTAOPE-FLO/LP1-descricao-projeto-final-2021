@@ -26,7 +26,7 @@ Link do projeto: [Link](https://github.com/oliveiraSARA3/Farmacia)
 
 Link do projeto: [Link](https://github.com/Bianca-Franca/CLINICA-VETERINARIA#readme)
 
-## (4) Nome do Projeto: *Indefinido*
+## (4) Nome do Projeto: Brasil Sem Frio
 
 - Lara Beatriz Santos Calazans *
 - Danielle Souza do Carmo
@@ -52,7 +52,7 @@ Link do projeto: [Link](https://github.com/A1ves-V1nn1/APSConcessionaria3)
 - Sabrina do Nascimento Santos
 - Laiane dos Santos Oliveira
 - Lorena Santos Paixão
-- Victória Bispo dos Santos Santos;
+- Victória Bispo dos Santos;
 
 Link do projeto: [Link](https://github.com/Douglas3B/Planner-virtual)
 
