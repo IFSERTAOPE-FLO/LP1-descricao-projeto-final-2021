@@ -26,6 +26,10 @@
 | Criação de testes de aceitação                               | `@daniocr`                         |
 | Criação do planejamento                                      | `@larafuracao`                     |
 | Arquivo de retrospectiva                                     | `@geoaraujos`                     |
+| Mockups                                                      | `@todos`                     |
+| Storyboards                                                  | `@todos`                     |
+| Implementação                                                  | `@todos`                     |
+
 
 ### O que não foi feito
 
@@ -36,11 +40,13 @@
 | Criação de Storyboards                                       | `@geoaraujos`                      |
 | Diagrama de Classes                                          | `@sarahbarrettto`                  |
 | Diagrama de Sequência                                        | `@daniocr`                         |
-| Storyboards paracada HU                                      | `@larafuracao`                     |
+| Storyboards para cada HU                                      | `@larafuracao`                     |
 | Mockups para cada HU                                         | `@daniocro`                        |
+| Implementação                                               | `@todos`                        |
 
 
 ### Lições aprendidas
 
 O grupo aprendeu a mexer no GitHub, melhorou a comunicação e através do líder cada um recebeu sua função para não atrasar os prazos.
+Durante a segunda iteração o grupo desenvolveu habilidades de desenvolivmento em Java e uso da IDE Eclipse
 
