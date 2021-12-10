@@ -5,6 +5,7 @@
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
 | 07/11/2021         | 12/11/2021          |
+| 08/12/2021         | 10/12/2021          |
 
 
 ### O que estava planejado
@@ -35,6 +36,8 @@
 | Criação de Storyboards                                       | `@geoaraujos`                      |
 | Diagrama de Classes                                          | `@sarahbarrettto`                  |
 | Diagrama de Sequência                                        | `@daniocr`                         |
+| Storyboards paracada HU                                      | `@larafuracao`                     |
+| Mockups para cada HU                                         | `@daniocro`                        |
 
 
 ### Lições aprendidas
