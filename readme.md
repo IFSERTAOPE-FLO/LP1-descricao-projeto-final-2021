@@ -24,3 +24,8 @@ Criação do documento de requisitos '@juliaEmacedo'
 
 Retrospectiva '@geoaraujos'
 
+Mockups '@todos'
+
+Storyboards '@todos'
+
+Implementação '@todos'
