@@ -14,7 +14,7 @@
 | **US008** | Como um doador, eu gostaria de receber um e-mail com os dados do usuário. |
 | **US009** | Como um usuário, eu gostaria de me cadastrar com facilidade. |
 | **US010** | Como um doador, eu gostaria de cadastrar roupas no meu perfil de doador e colocar fotos. |
-
+| **US011** | Como um usuário, eu gostaria de encontrar doadores mais próximos com facilidade          |
 
 
 ## Testes de Aceitação
@@ -29,5 +29,10 @@
 ## Storyboards
 | Código    | User Story                                                   |
 | --------- | ------------------------------------------------------------ |
-| **US005** | ![Definir roupa](https://user-images.githubusercontent.com/94196890/145587457-3bb314e8-bb26-4432-a029-655b56c854eb.png) |
+| **US007** | ![Definir roupa](https://user-images.githubusercontent.com/94196890/145587457-3bb314e8-bb26-4432-a029-655b56c854eb.png) |
+| **US004** | ![devolver](https://user-images.githubusercontent.com/94196890/145588098-5d340b62-d291-47ba-b178-b296b52023d0.png)      |
+| **US009** | ![Login](https://user-images.githubusercontent.com/94196890/145588371-d2e6d3e1-bb2f-435e-9588-11047815dafb.png)         |
+| **US009** | ![Login](https://user-images.githubusercontent.com/94196890/145588371-d2e6d3e1-bb2f-435e-9588-11047815dafb.png)         |
+| **US011** | ![pesq doador](https://user-images.githubusercontent.com/94196890/145588857-03c7cf45-7a39-4853-ab95-4d187efe339b.png)   |
+
 
