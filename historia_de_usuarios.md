@@ -26,3 +26,8 @@
 | TA003  | US004        | **Dado** que sou um usuário típico. **Quando** eu clicar no botão "Achar um doador". **Então** o sistema deve exibir a tela com uma lista de todos os doares em ordem do mais perto para o mais longe |
 | ...    | ...          | ...                                                          |
 
+## Storyboards
+| Código    | User Story                                                   |
+| --------- | ------------------------------------------------------------ |
+| **US005** | ![Definir roupa](https://user-images.githubusercontent.com/94196890/145587457-3bb314e8-bb26-4432-a029-655b56c854eb.png) |
+
