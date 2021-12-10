@@ -27,16 +27,22 @@
 | ...    | ...          | ...                                                          |
 
 ## Mockups
-| Código    | User Story                                                   |
+| Código    | Mockups                                                      |
 | --------- | ------------------------------------------------------------ |
 | **US007** | ![Definir roupa](https://user-images.githubusercontent.com/94196890/145587457-3bb314e8-bb26-4432-a029-655b56c854eb.png) |
 | **US004** | ![devolver](https://user-images.githubusercontent.com/94196890/145588098-5d340b62-d291-47ba-b178-b296b52023d0.png)      |
 | **US009** | ![Login](https://user-images.githubusercontent.com/94196890/145588371-d2e6d3e1-bb2f-435e-9588-11047815dafb.png)         |
-| **US009** | ![Login](https://user-images.githubusercontent.com/94196890/145588371-d2e6d3e1-bb2f-435e-9588-11047815dafb.png)         |
 | **US011** | ![pesq doador](https://user-images.githubusercontent.com/94196890/145588857-03c7cf45-7a39-4853-ab95-4d187efe339b.png)   |
 
 ## Storyboards
-| Código    | User Story                                                   |
+| Código    | Storyboards                                                  |
 | --------- | ------------------------------------------------------------ |
+| **US010** | ![edita perfil](https://user-images.githubusercontent.com/94200550/145590975-fc259fb0-35c1-407a-b3ee-2b3bd818d824.png)  |
+| **US002** | ![procura beneficiado](https://user-images.githubusercontent.com/94200550/145591026-a7dea1ef-b5f4-44ff-ba7e-912191488ed0.png)      |
+| **US011** | !![SB pesquisa doador](https://user-images.githubusercontent.com/94200550/145591063-6fc7afbe-da80-4f16-97f7-e9143d770e1b.png)         |
+
+
+
+
 
 
