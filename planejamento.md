@@ -5,7 +5,7 @@
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
 | 07/11/2021         | 12/11/2021          |
-
+| 05/02/2021         | 15/02/2021          |
 
 ### O que fazer na iteração #1
 
@@ -18,7 +18,18 @@
 | Criação do planejamento                                      | `@larafuracao`                     |
 | Criação do Documento de requisitos                           | `@juliaEmacedo`                    |
 
-### O que foi feito até a iteração #1
+### O que fazer na iteração #2
+
+| Atividade                                                    | Atribuição                         |
+| ------------------------------------------------------------ | ---------------------------------- |
+| Atualizar histórias de Usuário                               | `@larafuracao`                     |
+| Criação do casos de uso e respectivas descrições             | `@sarahbarrettto`                  |
+| Criação do diagrama de classes                               | `@daniocr`                         |
+| Criação do diagrama de sequência                             | `@daniocr`                         |
+| Criação do MER                                               | `@larafuracao`                     |
+
+-------------------------------------------------------------------------------------------------------
+### O que foi feito até a iteração #2
 
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
@@ -28,3 +39,9 @@
 | Criação de testes de aceitação                               | `@todos`                           |
 | Criação do planejamento                                      | `@todos`                           |
 | Criação do Documento de requisitos                           | `@juliaEmacedo`                    |
+| Atualizar histórias de Usuário                               | `@larafuracao`                     |
+| Criação do casos de uso e respectivas descrições             | `@sarahbarrettto`                  |
+| Criação do diagrama de classes                               | `@daniocr`                         |
+| Criação do diagrama de sequência                             | `@daniocr`                         |
+| Criação do MER                                               | `@larafuracao`                     |
+
