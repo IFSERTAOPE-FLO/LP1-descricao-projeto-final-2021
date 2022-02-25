@@ -100,7 +100,7 @@ Sabemos que o principal artefato de um projeto é o código em si, afinal é ele
 
 [**Código bem escrito é documentação**](https://www.martinfowler.com/bliki/CodeAsDocumentation.html). Isso é o principal. Design bem feito reflete-se em código claro, portanto também é documentação.
 
-Documentação dentro do código pode ser relevante em alguns pontos do sistema.
+**Documentação dentro do código** pode ser relevante em alguns pontos do sistema.
 
 **Artefatos deste projeto**
 
