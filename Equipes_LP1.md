@@ -62,6 +62,7 @@ Link do projeto: [Link](https://github.com/Helenapati/Projeto-)
 
 - João Bispo de Santana Neto ([netosantana14@gmail.com](mailto:netosantana14@gmail.com)) *
 - Carlos Henrique Costa Cavalcante ([chenrique.estudos@gmail.com](mailto:chenrique.estudos@gmail.com))
+- Kauan Rodrigo Souza Damasceno ([kauandamasceno2004@hotmail.com](mailto:kauandamasceno2004@hotmail.com))
 
 Link do projeto: [Link](https://github.com/N33ttu2/Gerenciamento_de_pedidos_de_uma_pastelaria)
 
