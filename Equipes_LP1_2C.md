@@ -24,13 +24,13 @@ Link do projeto: [Link](https://github.com/IFBA-EUC/Projeto-2-C.git)
 - José Rômulo Silvany Costa;
 - Bárbara Castro Barros Silva.
 
+Link do projeto: [Link](https://github.com/clarasandz/PROJETO-FINAL---BIBLIOTECA)
+
 > **Empresa**: Biblioteca
 >
 > **Cliente:**
 >
 > **Descrição:** 
-
-Link do projeto: [Link](https://github.com/clarasandz/PROJETO-FINAL---BIBLIOTECA)
 
 **Obs.: Não mandou o projeto que irá fazer: Descrição.**
 
@@ -42,13 +42,13 @@ Link do projeto: [Link](https://github.com/clarasandz/PROJETO-FINAL---BIBLIOTECA
 - Jenica de Abreu;
 - Yasmim Passos. *
 
+Link do projeto: [Link](https://github.com/yasmim-passos/LP1-Projeto-2022)
+
 > **Empresa:** Loja de Bijuteria
 >
 > **Cliente**: 
 >
 > **Objetivos gerais do projeto:** O sistema Loja de Bijuteria v1.0 é uma solução para organização das vendas realizadas de um pequeno comércio. Fornece funcionalidades para gerenciar vendas, bem como gerar relatórios das mesmas.
-
-Link do projeto: [Link](https://github.com/yasmim-passos/LP1-Projeto-2022)
 
 ## (4) Nome do Projeto: Cantina
 
@@ -87,7 +87,7 @@ Link do projeto: [Link](https://github.com/N33ttu2/Gerenciamento_de_pedidos_de_u
 >
 > Outra ideia também, é desenvolver uma especie de saldo, pois muitas vezes a cantina fica sem troco, e quando isso acontecer o aluno receberá um saldo em sua conta, e até mesmo pode ser usado para o aluno "depositar" certa quantia, não precisando levar o dinheiro para escola.
 
-## (6) Nome do Projeto: 
+## (6) Nome do Projeto: Academia do IFBA
 
 - Kayck Vitor Dias *
 - Anna Beatriz de Santana Mendes
@@ -95,15 +95,15 @@ Link do projeto: [Link](https://github.com/N33ttu2/Gerenciamento_de_pedidos_de_u
 - Yasmin de Souza Pereira
 - Yara Santana Passos 
 
-Link do projeto: *Sem link*
+Link do projeto: [Link](https://github.com/IFBA-EUC/Projeto-final-2-C)
 
-> **Empresa:** 
+> **Empresa:** Academia do IFBA
 >
 > **Cliente:** 
 >
-> **Objetivos gerais do projeto:** 
+> **Objetivos gerais do projeto:** Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no ginásio onde está com impossibilidade de funcionar devido a falta de um profissional para instruir os alunos (personal), diante disso, esse pré-projeto visa criar um sistema para que quando houver personal, os alunos e servidores possam usá-la tranquilamente. Implementando os requisistos básicos e de segurança de uma academia, o sistema deve possuir algumas restrições e regras.
 
-**Obs.: Não mandou o projeto que irá fazer: Link do Github, Nome do projeto, Empresa e Objetivos/Descrição.**
+**Obs.: Entregou atrasado em 17/05/2022.**
 
 ## (7) Nome do Projeto: Sistema de Gerenciamento da Cantina do IFBA - Campus Euclides da Cunha
 
