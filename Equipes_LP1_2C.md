@@ -121,7 +121,7 @@ Link do projeto: [Link](https://github.com/IFBA-EUC/Projeto-2C.git)
 >
 > **Objetivos gerais do projeto:** A empresa responsável pela Cantina do IFBA, tendo iniciado seu funcionamento a pouco tempo, ainda está se adequando à demanda imposta pela instituição. Por isso, nosso objetivo é ajudar na sistematização da organização dos almoços e lanches, criando uma melhor comunicação entre os funcionários e estudantes. Isso, no intuito de melhorar o atendimento e a produtividade das pessoas responsáveis pela demanda alimentícia.
 
-## (8) Nome do Projeto: 
+## (8) Nome do Projeto: Argumentações de discentes do Campus Euclides da Cunha
 
 - Camila Leal *
 - Érica Lorena
@@ -129,7 +129,7 @@ Link do projeto: [Link](https://github.com/IFBA-EUC/Projeto-2C.git)
 - Feliphe
 - Milene.
 
-Link do projeto: *Sem link*
+Link do projeto: [Link](https://github.com/camilaleall/Argumenta-es_discentes)
 
 > **Empresa:** 
 >
