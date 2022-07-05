@@ -1,38 +1,28 @@
-# Nome do Projeto - #i(1..4)
+# Blibioteca - #i(1..4)
 
 # Retrospectiva
 
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
-| xx/xx/xxxx         | xx/xx/xxxx          |
+| 10/06/2021        | 04/07/2022           |
 
 
 ### O que estava planejado
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@pessoa1`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
-
+| concluir cerca de 70% do projeto, adicionando o que            todos do grupo
+| foi pedido pelo professor                                      
 ### O que foi feito
 | Atividade                                                    | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@pessoa1`, `@pessoa2`, `@pessoa3` |
-| Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! | `@todos`                           |
+| foi concluido cerca de 70% do projeto, adicionando o que foi   todos do grupo
+| pedido pelo professor
 
 ### O que não foi feito
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
+* A finalização do projeto, que é referente a 30% e incluindo alguma(s) classe(s), porém já está tudo em andamento para a conclusão.
+
 
 ### Planejado para próxima iteração
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi! 
-
+* Entregar todo o projeto e apresenta-lo.
 ### Lições aprendidas
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-
-> **Nota:** Levante o que foi aprendido nesta iteração, seja de carácter individual e/ou coletivo.
+* Conhecimento sobre as classes usadas nos primeiros 70% do código, sobre heranças, abstração, polimorfismo, Scrum e Issue tracker, além de polimorfismo.
